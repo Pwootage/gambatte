@@ -13,4 +13,7 @@ gambatte_sdl/gambatte_sdl
 gambatte_qt/src/moc_*.cpp
 gambatte_qt/src/release/
 gambatte_qt/bin/
+gambatte_js/gambatte.js
+gambatte_js/gambatte.js.mem
 test/testrunner
+.idea
